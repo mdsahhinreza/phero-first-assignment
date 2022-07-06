@@ -94,3 +94,51 @@ body{
     border-radius: 5px;
     
 }
+
+#donate-plan{
+    text-align: center;
+    padding: 95px 0px;
+    width: 80%;
+    margin: auto;
+}
+
+#donate-plan h1{
+    font-size: 45px;
+    margin: 0;
+    padding: 0;
+}
+
+#donate-plan p{
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+
+
+.donate-plan-contents{
+    display: flex;
+}
+.w-30{
+    width: 33%;
+}
+
+.content-box-one{
+    background: #4f9da642;
+    padding: 75px 20px;
+    margin: 0px 10px;
+}
+
+.content-box-two{
+    background: #ff59594d;
+    padding: 75px 20px;
+    margin: 0px 10px;
+}
+
+.content-box-three{
+    background: #fff4d665;
+    padding: 75px 20px;
+    margin: 0px 10px;
+}
+
+.align-justify{
+    text-align: justify;
+}
